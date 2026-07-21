@@ -57,6 +57,7 @@ TRINITY/
 └── requirements.txt
 
 app/ (별도 디렉토리)             # [KR] Flutter 클라이언트 / [EN] Flutter client
+
 ## 🇰🇷 한국어 (Korean)
 
 ### 1. 개요 (Overview)
