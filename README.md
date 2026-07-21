@@ -153,6 +153,9 @@ Sora·Veo 등 확산 모델 기반 영상 생성 기술은 인간의 시각적 �
 * 본 시스템은 **위험도 점수**를 제시하며 단정적 판정을 내리지 않습니다.
 * `yt-dlp` 다운로드는 약관상 회색지대로, 본 프로젝트는 **학술 연구 목적**으로만 사용합니다.
 
+### 10. 왜 3축인가 (Reason)
+* A Review of Tools and Technologies to Combat Deepfakes", Information 저널, DOI:10.3390/info17040347
+
 ---
 
 ## 📚 References (2024–2026, verified)
