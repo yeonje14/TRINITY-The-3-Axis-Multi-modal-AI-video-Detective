@@ -55,8 +55,7 @@ TRINITY/
 ├── 📂 weights/                  # [KR] 모델 가중치
 ├── app.py
 └── requirements.txt
-```text
-
+```
 
 
 ## 🇰🇷 한국어 (Korean)
