@@ -470,7 +470,7 @@ SoraやVeoに代表される拡散モデル系の映像生成は人間の知覚�
 
 ### Fusion & Benchmarks
 - *SpecSem-Net: Integrating Spectral and Semantic Features* — [arXiv:2605.17311](https://arxiv.org/abs/2605.17311)
-- *GenVidBench* — [arXiv:2501.11340](https://arxiv.org/abs/2501.11340) · *DeMamba/GenVideo* — [arXiv:2405.19707](https://arxiv.org/abs/2405.19707) · *RobustSora* — [arXiv:2512.10248](https://arxiv.org/abs/2512.10248)
+- *GenVidBench* — [arXiv:2501.11340](https://arxiv.org/abs/2501.11340) · *DeMamba/GenVideo* — Chen, Hong, Huang et al., *Sci. China Inf. Sci.* 69, 162103 (2026), [DOI:10.1007/s11432-024-4894-0](https://doi.org/10.1007/s11432-024-4894-0) (정식 동료심사 출판본; 이전 arXiv:2405.19707 대체) · *RobustSora* — [arXiv:2512.10248](https://arxiv.org/abs/2512.10248)
 
 ---
 
